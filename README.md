@@ -1,5 +1,5 @@
 ## INSPIRE Geoportal
-This space is used for discussions and announcements around the INSPIRE Geoportal.
+This space is used for discussions and announcements around the [INSPIRE Geoportal](https://inspire-geoportal.ec.europa.eu "INSPIRE Geoportal").
 
 Use the issue tracker (helpdesk) to:
 - [report a problem](https://github.com/INSPIRE-MIF/helpdesk-geoportal/issues/new?assignees=&labels=&template=report-a-problem-or-bug.md&title= "report a problem") with the INSPIRE Geoportal,
