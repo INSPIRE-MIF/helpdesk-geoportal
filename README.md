@@ -1,4 +1,4 @@
-##INSPIRE Geoportal
+## INSPIRE Geoportal
 This space is used for discussions and announcements around the INSPIRE Geoportal.
 
 Use the issue tracker (helpdesk) to:
