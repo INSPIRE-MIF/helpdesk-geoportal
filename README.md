@@ -1,5 +1,5 @@
 ## INSPIRE Geoportal
-This is the new helpdesk for the [INSPIRE Geoportal](https://inspire-geoportal.ec.europa.eu "INSPIRE Geoportal").
+This is the helpdesk for the [INSPIRE Geoportal](https://inspire-geoportal.ec.europa.eu "INSPIRE Geoportal").
 
 Use the issue tracker (helpdesk) to:
 - [report a problem](https://github.com/INSPIRE-MIF/helpdesk-geoportal/issues/new?assignees=&labels=&template=report-a-problem-or-bug.md&title= "report a problem") with the INSPIRE Geoportal,
@@ -13,3 +13,5 @@ To open a new issue in the helpdesk, you need a GitHub account. You can create a
 The status of the solutions to all the issues currently open in the helpdesk can be checked on the [issues page](https://github.com/INSPIRE-MIF/helpdesk-geoportal/issues "issues page").
 
 Please note that this helpdesk should not be used to report generic issues with INSPIRE implementation, but only to report problems specific to the INSPIRE Geoportal and to collect improvement proposals. For generic topics related to INSPIRE, please use the [dedicated helpdesk](https://github.com/INSPIRE-MIF/helpdesk "dedicated helpdesk").
+
+The folder [INSPIRE Geoportal 2026 archive](./INSPIRE%20Geoportal%202026%20archive) includes a zipped archive of the html pages of the INSPIRE Geoportal, created before its discontinuation on 01-07-2026.
