@@ -2,9 +2,9 @@
 <!--- This is the helpdesk for the [INSPIRE Geoportal](https://inspire-geoportal.ec.europa.eu "INSPIRE Geoportal").--->
 This was the helpdesk for the INSPIRE Geoportal "https://inspire-geoportal.ec.europa.eu".
 
-The Geoportal was discontinued on 1 July 2026, as duly announced in [this dicussion thread](https://github.com/INSPIRE-MIF/helpdesk-geoportal/discussions/303). The Groportal content is now fully integrated with [data.europa.eu](https://data.europa.eu/), single entry point for EU data operated by the [Publications Office of the European Union](https://op.europa.eu/).
+The Geoportal was discontinued on 1 July 2026, as duly announced in [this dicussion thread](https://github.com/INSPIRE-MIF/helpdesk-geoportal/discussions/303). The Geoportal content is now fully integrated with [data.europa.eu](https://data.europa.eu/), single entry point for EU data operated by the [Publications Office of the European Union](https://op.europa.eu/).
 
-The folder [INSPIRE Geoportal 2026 archive](./INSPIRE%20Geoportal%202026%20archive) includes a zipped archive of the freezed html pages of the past INSPIRE Geoportal, created before its discontinuation on 01-07-2026.
+The folder [INSPIRE Geoportal 2026 archive](./INSPIRE%20Geoportal%202026%20archive) includes a zipped archive of the freezed html pages of the past INSPIRE Geoportal, created before its discontinuation.
 
 <!--- 
 Use the issue tracker (helpdesk) to:
