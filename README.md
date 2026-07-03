@@ -21,6 +21,6 @@ The status of the solutions to all the issues currently open in the helpdesk can
 Please note that this helpdesk should not be used to report generic issues with INSPIRE implementation, but only to report problems specific to the INSPIRE Geoportal and to collect improvement proposals. For generic topics related to INSPIRE, please use the [dedicated helpdesk](https://github.com/INSPIRE-MIF/helpdesk "dedicated helpdesk").
 --->
 
-Consequently, the INSPIRE Geoportal issue tracker has been closed as reported in the [87th INSPIRE MIG-T Meeting](https://webgate.ec.europa.eu/fpfis/wikis/download/attachments/2391672757/MIG-T87_INSPIRE_Transition_JRC.pdf?version=1&modificationDate=1782468145483&api=v2). 
+Consequently, the INSPIRE Geoportal issue tracker has been closed, as reported in the [87th INSPIRE MIG-T Meeting](https://webgate.ec.europa.eu/fpfis/wikis/download/attachments/2391672757/MIG-T87_INSPIRE_Transition_JRC.pdf?version=1&modificationDate=1782468145483&api=v2). 
 
 To report generic questions and topics related to INSPIRE, please use the [dedicated helpdesk](https://github.com/INSPIRE-MIF/helpdesk "dedicated helpdesk").
