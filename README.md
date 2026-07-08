@@ -1,10 +1,10 @@
 ## INSPIRE Geoportal
 <!--- This is the helpdesk for the [INSPIRE Geoportal](https://inspire-geoportal.ec.europa.eu "INSPIRE Geoportal").--->
-This was the helpdesk for the INSPIRE Geoportal "https://inspire-geoportal.ec.europa.eu".
+This repository was used as the helpdesk for the INSPIRE Geoportal, formerly hosted at https://inspire-geoportal.ec.europa.eu.
 
-The Geoportal was discontinued on 1 July 2026, as duly announced in [this dicussion thread](https://github.com/INSPIRE-MIF/helpdesk-geoportal/discussions/303). The Geoportal content is now fully integrated with [data.europa.eu](https://data.europa.eu/), single entry point for EU data operated by the [Publications Office of the European Union](https://op.europa.eu/).
+The Geoportal was discontinued on July 1st, 2026, as announced in [this dicussion thread](https://github.com/INSPIRE-MIF/helpdesk-geoportal/discussions/303). The Geoportal content is now fully integrated with the [European Data Portal](https://data.europa.eu/), the single entry point for EU data operated by the [Publications Office of the European Union](https://op.europa.eu/).
 
-The folder [INSPIRE Geoportal 2026 archive](./INSPIRE%20Geoportal%202026%20archive) includes a zipped archive of the freezed html pages of the past INSPIRE Geoportal, created before its discontinuation.
+The folder [INSPIRE Geoportal 2026 archive](./INSPIRE%20Geoportal%202026%20archive) includes a zipped archive of the freezed html pages of the former INSPIRE Geoportal, created before its discontinuation. Similarly, the folder [INSPIRE Monitoring and Reporting Archive](./INSPIRE%20Monitoring%20and%20Reporting%20Archive) includes a zipped archive of the html pages presenting the results of the INSPIRE Monitoring and Reporting processes from 2019 to 2025, where indicators were calculated using the INSPIRE Geoportal. 
 
 <!--- 
 Use the issue tracker (helpdesk) to:
@@ -21,6 +21,6 @@ The status of the solutions to all the issues currently open in the helpdesk can
 Please note that this helpdesk should not be used to report generic issues with INSPIRE implementation, but only to report problems specific to the INSPIRE Geoportal and to collect improvement proposals. For generic topics related to INSPIRE, please use the [dedicated helpdesk](https://github.com/INSPIRE-MIF/helpdesk "dedicated helpdesk").
 --->
 
-Consequently, the INSPIRE Geoportal issue tracker has been closed, as reported in the [87th INSPIRE MIG-T Meeting](https://webgate.ec.europa.eu/fpfis/wikis/download/attachments/2391672757/MIG-T87_INSPIRE_Transition_JRC.pdf?version=1&modificationDate=1782468145483&api=v2). 
+Following the discontinuation of the INSPIRE Geoportal, the issue tracker of this repository has been closed, as announced during the [87th INSPIRE MIG-T Meeting](https://webgate.ec.europa.eu/fpfis/wikis/download/attachments/2391672757/MIG-T87_INSPIRE_Transition_JRC.pdf?version=1&modificationDate=1782468145483&api=v2). To still offer a discussion channel to the community, the [Discussions](https://github.com/INSPIRE-MIF/helpdesk-geoportal/discussions) section of this repository is still kept open.
 
-To report generic questions and topics related to INSPIRE, please use the [dedicated helpdesk](https://github.com/INSPIRE-MIF/helpdesk "dedicated helpdesk").
+Instead, to report generic questions or start generic discussions related to INSPIRE, please use the [generic INSPIRE helpdesk](https://github.com/INSPIRE-MIF/helpdesk).
